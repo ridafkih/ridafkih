@@ -1,6 +1,6 @@
 <h1>Howdy there, I'm Rida F'kih!</h1>
 I'm a Canadian software developer based out of Calgary, Alberta.
-You can get in contact with me, or check out some of my favourite public projects below!<br>
+You can get in contact with me, or check out some of my favourite public projects below!<br><br>
 
 <p>
   <a href="mailto:ridafakih@gmail.com" rel="noopener">
