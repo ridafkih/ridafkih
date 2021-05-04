@@ -7,7 +7,7 @@ You can get in contact with me, or check out some of my favourite public project
     <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Email&message=ridafakih@gmail.com&color=EA4335" />
   </a>
   <a href="https://discord.com/" rel="noopener">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=Discord&message=rida%238514&color=738ADB" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=Discord&message=rida%233403&color=738ADB" />
   </a>
   <a href="https://twitter.com/ridafkih" rel="noopener">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Email&message=ridafkih&color=1DA1F2" />
