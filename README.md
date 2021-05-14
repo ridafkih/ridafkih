@@ -3,6 +3,9 @@ I'm a Canadian software developer based out of Calgary, Alberta.<br>
 You can get in contact with me, or check out some of my favourite public projects below!<br><br>
 
 <p>
+  <a href="https://rida.dev/" rel="noopener">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=html5&label=Portfolio&message=rida.dev&color=E34F26" />
+  </a>
   <a href="mailto:ridafakih@gmail.com" rel="noopener">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&label=Email&message=ridafakih@gmail.com&color=EA4335" />
   </a>
