@@ -1,12 +1,12 @@
 <div align="center">
-  <p>Canadian software developer based out of Calgary, Alta.</p>
+  <sub><p>canadian software developer based out of calgary, alta.</p></sub>
   <sub>
-    <a href="https://rida.dev/" target="_blank">🌐 My Portfolio</a>
+    <a href="https://rida.dev/" target="_blank">🌐 &nbsp;portfolio</a>
   </sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <sub>
-    <a href="mailto:hello@rida.dev" target="_blank">📩 Get in Touch</a>
+    <a href="mailto:hello@rida.dev" target="_blank">📩 &nbsp;contact</a>
   </sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <sub>
-    <a href="https://twitter.com/" target="_blank">🐦 Twitter</a>
+    <a href="https://twitter.com/" target="_blank">🐦 &nbsp;tweet</a>
   </sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
