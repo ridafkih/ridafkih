@@ -7,6 +7,6 @@
     <a href="mailto:hello@rida.dev" target="_blank">📩 &nbsp;contact</a>
   </sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <sub>
-    <a href="https://twitter.com/" target="_blank">🐦 &nbsp;tweet</a>
+    <a href="https://twitter.com/ridafkih" target="_blank">🐦 &nbsp;tweet</a>
   </sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
